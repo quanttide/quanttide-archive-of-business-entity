@@ -1,0 +1,1 @@
+- 移除 qtrecurit 日志 20 篇：迁移至联盟日志仓（quanttide-journal-of-innovation-alliance），按月归入 qtrecurit/
