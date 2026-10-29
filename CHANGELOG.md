@@ -15,3 +15,4 @@
 - 产品路线图完整文档（roadmap/）
 - 工作日志归档（journal/）
 - 工作周报归档（report/）
+- 移除 qtrecurit 归档：平移至联盟归档仓（quanttide-archive-of-innovation-alliance）
