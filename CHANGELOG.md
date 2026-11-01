@@ -1,5 +1,9 @@
 # Changelog
 
+## [Unreleased]
+
+- 归档 qtadmin 日志两篇（2026-10-12、2026-10-21）：自量潮科技 `data/context` 草稿箱平移，归 `journal/qtadmin/`
+
 ## [0.1.1] - 2026-08-27
 
 ### Added
